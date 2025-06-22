@@ -5,4 +5,4 @@ def add(farg,*args):
     print ("sum is",sum+farg) 
 add(5,10) 
 add(5,10,20) 
-add(5,10,20,30)
+add(1,10,20,30)
