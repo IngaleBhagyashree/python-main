@@ -5,4 +5,4 @@ def myfunction():
     print ("Inside function",b) #display local var 
 myfunction() 
 print ("outside function",a) # available print 
-print ("outside function",b) # error
+# print ("outside function",b) # error
