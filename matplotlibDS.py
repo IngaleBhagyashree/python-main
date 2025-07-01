@@ -1,3 +1,10 @@
+
+# Matplotlib is a plotting library used to create data visualizations like graphs and charts. It's helpful for understanding patterns in your data visually.
+# ✅ Key Uses:
+# Plotting line, bar, scatter, pie chart
+# Customizing colors, labels, titles
+# Making data easier to interpret visually
+
 import matplotlib.pyplot as plt
 
 x = [1, 2, 3, 4]
